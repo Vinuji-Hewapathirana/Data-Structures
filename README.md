@@ -1,4 +1,4 @@
-# Data-Structures & Algorithms
+# Autonomous Robot Path Planning
 
 This is focused on implementing a program for an autonomous robot to navigate through a grid-based environment with obstacles. The created Java code has implemented the program using A* (A-star) search algorithm to find the optimal path from its starting point to a goal position while avoiding collisions with obstacles. The algorithm calculates the shortest path considering both the actual costs of movement and a heuristic estimate of the remaining distance to the goal. 
 
